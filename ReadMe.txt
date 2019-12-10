@@ -1,0 +1,17 @@
+Project Created by Lucy Mills and Ramon Fernandez-Garcia
+
+To run the game, type
+    > run [DeckFile.csv]
+
+There is a DeckFile already provided (Deck_01.csv) but you may add cards in this format
+    Health,Mana_Cost,Attack,Name
+
+Once game is running you will need to type in Player1's name and Player2's name then hit ENTER
+    After that the players will have to type numbers 1-6 to place cards on the battle field,
+    Then hit 6 to pass on the turn
+
+Game will end when either one of these 3 things happens:
+    - Player1 dies
+    - Player2 dies
+    - Turns surpass the max amount of turns
+        Set at 20
